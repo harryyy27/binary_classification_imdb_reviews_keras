@@ -1,4 +1,4 @@
-# Binary Clssification Of IMDB Reviews Keras
+# Binary Classification Of IMDB Reviews Keras
 
 Basic neural network used to classify imdb reviews as either positive or negative reviews. Correctly classifies Parasite review as positive (how could it not thought right?)
 
